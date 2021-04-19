@@ -1,11 +1,13 @@
 #include<std.h>
 #include <iostream>
+using namespace std;
 int main()
 {
 	int a,b;
-	std::cout<<"Write two numbers:\n"
-		std::cin>>a;
-	std::cin>>b;
+	cout<<"Write two numbers:\n"
+    cin>>a;
+	cin>>b;
+	cout<<"a+b= "<<(a+b)<<"\n";
 
 	return 0;
 }
