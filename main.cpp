@@ -9,6 +9,5 @@ int main()
 	cin>>b;
 	cout<<"a+b= "<<(a+b)<<"\n";
 		cout<<"a-b= "<<(a-b)<<"\n";
-
 	return 0;
 }
